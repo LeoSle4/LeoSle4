@@ -1,141 +1,220 @@
 <!-- ============================================================ -->
-<!--  GitHub Profile · LeoSle4 (Diego Leonardo Choque Castro)      -->
-<!--  Crea un repo PÚBLICO llamado exactamente "LeoSle4"           -->
-<!--  y sube este archivo como README.md en la raíz.              -->
-<!--  Tema: minimalista · celeste · bilingüe (ES / EN)            -->
+<!--  GitHub Profile · LeoSle4 · Diego Leonardo Choque Castro     -->
+<!--  Repo especial: crea un repo PÚBLICO llamado "LeoSle4"       -->
+<!--  Sube:  README.md  +  assets/header.svg                       -->
+<!--         .github/workflows/snake.yml  (para el gusano)         -->
+<!--  Estilo inspirado en @jhony-vx  ·  tema oscuro navy/cian      -->
 <!-- ============================================================ -->
 
-<h1 align="center">Diego Leonardo Choque Castro</h1>
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="LeoSle4 — Diego Leonardo Choque Castro"/>
+</div>
 
-<p align="center">
-  <b>Desarrollador Full-Stack</b> · Backend Developer · QA &amp; Testing · DevOps<br/>
-  <sub>Backend (Java / Spring · Python / Django) + Frontend con React</sub><br/>
-  <sub>Ingeniero de Sistemas · Estudiante de Ingeniería de Software — Lima, Perú 🇵🇪</sub>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/diego-leonardo-choque-castro-077417426/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:dleochoque4@outlook.com">
-    <img src="https://img.shields.io/badge/Email-38BDF8?style=flat-square&logo=maildotru&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=LeoSle4&style=flat-square&color=38BDF8&label=Profile+views" alt="views"/>
-</p>
+## 👋 Sobre mí
 
----
+Desarrollador **full-stack** con foco en **backend** y **calidad de software**.
+Construyo APIs con **Java / Spring Boot** y **Python / Django**, interfaces con **React** (Vite, Tailwind),
+y las respaldo con **pruebas funcionales, de API y unitarias (JUnit)**.
+También trabajo el ciclo **DevOps** (Docker, AWS, CI/CD) y el **análisis funcional**:
+historias de usuario, criterios de aceptación y flujos de proceso.
 
-### 👋 Sobre mí · About me
+Metodología **Scrum** — he sido desarrollador, **Scrum Master** y **Product Owner** en proyectos universitarios.
 
-**ES —** Desarrollador **full-stack** con foco en **backend** y **calidad de software**. Construyo APIs con **Java / Spring Boot** y **Python / Django**, e interfaces con **React** (Vite, Tailwind), y las respaldo con **pruebas funcionales, de API y unitarias (JUnit)**. También trabajo el ciclo **DevOps** (Docker, AWS, CI/CD) y el **análisis funcional**: historias de usuario, criterios de aceptación y flujos de proceso. Metodología **Scrum** (he sido desarrollador, Scrum Master y Product Owner en proyectos universitarios).
+> 🎯 **Objetivo:** crecer como desarrollador full-stack con testing y **liderar proyectos de desarrollo**.
 
-**EN —** **Full-stack** developer focused on **backend** and **software quality**. I build APIs with **Java / Spring Boot** and **Python / Django**, and UIs with **React** (Vite, Tailwind), backed by **functional, API and unit testing (JUnit)**. I also handle the **DevOps** cycle (Docker, AWS, CI/CD) and **functional analysis**: user stories, acceptance criteria and process flows. **Scrum** methodology (developer, Scrum Master and Product Owner in academic projects).
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LeoSle4&hide_border=true&background=0A101F&stroke=0A101F&ring=A78BFA&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="streak" width="80%"/>
+</div>
 
-🎯 **Objetivo / Goal:** crecer como desarrollador backend con testing y **liderar proyectos de desarrollo**.
-
----
-
-### 🛠️ Stack
-
-**Backend**
-&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-**QA & Testing**
-&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
-
-**DevOps**
-&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Data & Front**
-&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeoSle4&theme=github_dark" height="200" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoSle4&theme=github_dark" height="200" alt="languages"/>
+</div>
 
 ---
 
-### 🧪 QA — cómo trabajo la calidad · how I work on quality
+## 🛠️ Stack
 
-- **Pruebas funcionales y de API** (backend y frontend) · functional & API testing
-- **Pruebas unitarias con JUnit** en servicios backend (Java / Spring) · JUnit unit testing
-- **Validación de permisos por rol** (admin / colaborador / visitante) · role-based access testing
-- **SQL para pruebas** y lectura de **HTML/CSS** para inspección de UI
-- **Gestión de casos y bugs** con Jira, ClickUp y Excel
-- **Análisis funcional:** historias de usuario, criterios de aceptación (Gherkin) y flujos de proceso junto al Product Owner
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Backend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,spring,py,django" alt="backend"/>
+    </td>
+    <td valign="top" width="50%">
+      <b>Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind" alt="frontend"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>QA &amp; Testing</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postman" alt="qa"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="junit"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="jira"/>
+      <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" alt="clickup"/>
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="swagger"/>
+    </td>
+    <td valign="top">
+      <b>DevOps</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,jenkins,linux" alt="devops"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Bases de datos</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="db"/>
+    </td>
+    <td valign="top">
+      <b>Herramientas</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" alt="tools"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Proyectos · Projects
+## 🧪 QA — cómo trabajo la calidad
 
-#### 🏢 Vexa &nbsp;·&nbsp; [@vexa-dev](https://github.com/vexa-dev)
-| Proyecto | Descripción | Rol · Stack |
-|---|---|---|
-| **Vantage** | Aplicación web de analítica de negocio. · Business analytics web app. | Backend — Java / Spring Boot · [backend](https://github.com/vexa-dev/VantageBackend) · [frontend](https://github.com/vexa-dev/VantageFrontend) |
-| **Fivuza** | ERP SaaS multi-tenant para retail y almacenes. · Multi-tenant retail/warehouse ERP SaaS. | Backend — Python / Django · [backend](https://github.com/vexa-dev/FivuzaBackend) · [frontend](https://github.com/vexa-dev/FivuzaFrontend) |
-| **VexaPage** | Landing page oficial de Vexa. · Vexa official landing page. | Dev — HTML/CSS · [repo](https://github.com/vexa-dev/VexaPage) |
-| **VexaML** | Experimentos de machine learning y automatización. · ML & automation experiments. | Dev — Python · [repo](https://github.com/LeoSle4/VexaML) |
-
-#### 👤 Personales · Personal
-| Proyecto | Descripción | Rol · Stack |
-|---|---|---|
-| **miLenteCusco** | PWA para subir y editar fotos con recorte, compresión y soporte sin conexión (offline). Exporta a PDF/imagen. · Photo PWA with crop, compression and offline support; PDF/image export. | Desarrollo solo — React · Vite · Tailwind · Supabase · PWA · [demo](https://mi-lente-cusco.vercel.app) · [repo](https://github.com/LeoSle4/miLenteCusco) |
-| **SalchiChat** | Chat full-stack con asistente de IA (Gemini), autenticación por roles, panel de administración e integración con bot de Telegram. · Full-stack AI chat (Gemini) with role-based auth, admin panel and a Telegram bot. | Desarrollo solo — Spring Boot · Spring Security · JPA / MySQL · Spring AI · React · Vite · [demo](https://salchi-chat.vercel.app) · [repo](https://github.com/LeoSle4/SalchiChat) |
-| **Planos_MiCasita** | Web para un emprendimiento de arquitectura (planos y diseño de vivienda). · Web app for an architecture studio. | Desarrollo solo — React · TypeScript · Vite · [repo](https://github.com/LeoSle4/Planos_MiCasita) |
-| **Urbanwear** | E-commerce de ropa (proyecto de universidad con React). · Clothing e-commerce (university project). | Desarrollador — React · TypeScript · Vite · [repo](https://github.com/LeoSle4/Urbanwear) |
-| **sistema-analisis-ventas** | Sistema de análisis de ventas con reportes y consultas SQL. · Sales analytics system. | Dev — SQL / HTML · [repo](https://github.com/LeoSle4/sistema-analisis-ventas) |
-| **pecano-web** | Sitio web informativo (GitHub Pages). · Informational website. | Dev — HTML/CSS · [repo](https://github.com/LeoSle4/pecano-web) |
-
-#### 🤝 Colaboraciones · Collaborations
-| Proyecto | Descripción | Rol · Stack |
-|---|---|---|
-| **proyecto-prisma** | Tienda de ropa Prisma — curso Herramientas de Desarrollo. · Prisma clothing store, dev-tools course. | Colaborador — HTML/CSS · [repo](https://github.com/0koikoi/proyecto-prisma) |
-| **Proyecto_futuro** | Proyecto académico en Java. · Academic Java project. | Colaborador — Java · [repo](https://github.com/Naranjo68/Proyecto_futuro) |
+| Etapa | Qué hago |
+|---|---|
+| **Análisis** | Reviso la historia de usuario y sus criterios de aceptación; detecto ambigüedades antes de codificar. |
+| **Diseño de pruebas** | Casos funcionales, de regresión y de flujos críticos; matriz de permisos por rol (admin / colaborador / visitante). |
+| **Ejecución** | Pruebas manuales + colección **Postman** para la API; **JUnit** en el backend; evidencia y pasos de reproducción. |
+| **Reporte de bugs** | Título claro, severidad, entorno, resultado esperado vs. obtenido, adjuntos — en **Jira / ClickUp**. |
+| **Cierre** | Re-test, notas de regresión y checklist antes del release. |
 
 ---
 
-### 🎓 Formación · Education
+## 🚀 Proyectos
+
+### 🏢 Vexa &nbsp;·&nbsp; [@vexa-dev](https://github.com/vexa-dev)
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>📈 Vantage</h4>
+      Aplicación web de <b>analítica de negocio</b>. API REST en Spring Boot y frontend en React + TypeScript.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,spring,react,ts" height="32"/><br/><br/>
+      <a href="https://github.com/vexa-dev/VantageBackend">Backend</a> ·
+      <a href="https://github.com/vexa-dev/VantageFrontend">Frontend</a>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🏪 Fivuza</h4>
+      <b>ERP SaaS multi-tenant</b> para retail y almacenes: inventario, ventas y usuarios por tenant.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,django,react,ts,postgres" height="32"/><br/><br/>
+      <a href="https://github.com/vexa-dev/FivuzaBackend">Backend</a> ·
+      <a href="https://github.com/vexa-dev/FivuzaFrontend">Frontend</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>🌐 VexaPage</h4>
+      Landing page oficial de Vexa.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js" height="32"/><br/><br/>
+      <a href="https://github.com/vexa-dev/VexaPage">Repo</a>
+    </td>
+    <td valign="top">
+      <h4>🤖 VexaML</h4>
+      Experimentos de machine learning y automatización.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=py" height="32"/><br/><br/>
+      <a href="https://github.com/LeoSle4/VexaML">Repo</a>
+    </td>
+  </tr>
+</table>
+
+### 👤 Personales
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>📸 miLenteCusco</h4>
+      <b>PWA</b> para subir y editar fotos: recorte, compresión y <b>soporte sin conexión</b>. Exporta a PDF/imagen.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,supabase" height="32"/><br/><br/>
+      <a href="https://mi-lente-cusco.vercel.app">Demo</a> ·
+      <a href="https://github.com/LeoSle4/miLenteCusco">Repo</a>
+    </td>
+    <td valign="top" width="50%">
+      <h4>💬 SalchiChat</h4>
+      Chat full-stack con <b>asistente de IA (Gemini)</b>, autenticación por roles, panel de administración e integración con bot de <b>Telegram</b>.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,vite" height="32"/><br/><br/>
+      <a href="https://salchi-chat.vercel.app">Demo</a> ·
+      <a href="https://github.com/LeoSle4/SalchiChat">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>🏗️ Planos_MiCasita</h4>
+      Web para un emprendimiento de arquitectura (planos y diseño de vivienda). Desarrollo solo.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,ts,vite" height="32"/><br/><br/>
+      <a href="https://github.com/LeoSle4/Planos_MiCasita">Repo</a>
+    </td>
+    <td valign="top">
+      <h4>👕 Urbanwear</h4>
+      E-commerce de ropa (proyecto de universidad con React).<br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,ts,vite" height="32"/><br/><br/>
+      <a href="https://github.com/LeoSle4/Urbanwear">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>📊 sistema-analisis-ventas</h4>
+      Sistema de análisis de ventas con reportes y consultas SQL.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,mysql" height="32"/><br/><br/>
+      <a href="https://github.com/LeoSle4/sistema-analisis-ventas">Repo</a>
+    </td>
+    <td valign="top">
+      <h4>🌱 pecano-web</h4>
+      Sitio web informativo (GitHub Pages).<br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css" height="32"/><br/><br/>
+      <a href="https://github.com/LeoSle4/pecano-web">Repo</a>
+    </td>
+  </tr>
+</table>
+
+### 🤝 Colaboraciones
+
+- **[proyecto-prisma](https://github.com/0koikoi/proyecto-prisma)** — Tienda de ropa Prisma (curso Herramientas de Desarrollo). `HTML/CSS`
+- **[Proyecto_futuro](https://github.com/Naranjo68/Proyecto_futuro)** — Proyecto académico en `Java`.
+
+---
+
+## 🎓 Formación
 
 - **Universidad Tecnológica del Perú (UTP)** — Ingeniería de Software · 9.º ciclo · 2022–Presente
 - **Universidad César Vallejo** — Ingeniero de Sistemas (titulado) · 2021–2025
 
-### 🏆 Hackathons
+## 🏆 Hackathons
 
 - **Hackathon Expedition 2025** — participante
 - **Hackathon del Instituto Nacional de Salud del Niño (INSN)** — participante
 
-### 🌱 Aprendiendo ahora · Currently learning
+## 🌱 Aprendiendo ahora
 
 Pruebas funcionales para backend y frontend · DevOps · Blockchain · Machine Learning / Deep Learning
 
-### 🗣️ Idiomas · Languages
+## 🗣️ Idiomas
 
 Español (nativo) · English (B1)
 
 ---
 
-### 📊 GitHub
+## 📫 Contacto
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LeoSle4&show_icons=true&count_private=true&hide_border=true&title_color=0EA5E9&icon_color=38BDF8&text_color=64748B&bg_color=00000000" alt="stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSle4&layout=compact&hide_border=true&title_color=0EA5E9&text_color=64748B&bg_color=00000000&langs_count=8" alt="top langs"/>
+  <a href="https://www.linkedin.com/in/diego-leonardo-choque-castro-077417426/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dleochoque4@outlook.com">
+    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LeoSle4/LeoSle4/output/github-snake-dark.svg" alt="snake" width="100%"/>
+</div>
 
 <p align="center"><sub>“Un bug encontrado a tiempo vale más que mil disculpas en producción.”</sub></p>
